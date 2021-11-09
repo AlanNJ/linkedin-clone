@@ -1,4 +1,4 @@
-**#Creating and  Deploying a React App\* to GitHub Pages**
+# **Creating and  Deploying a React App\* to GitHub Pages**
 
 \* created using `create-react-app`
 
