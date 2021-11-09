@@ -1,10 +1,10 @@
-# Deploying a React App\* to GitHub Pages
+#Creating and  Deploying a React App\* to GitHub Pages
 
 \* created using `create-react-app`
 
 # Introduction
 
-In this tutorial, I'll show you how I deployed a React app—which I created using `create-react-app`—to GitHub Pages.
+In this tutorial, I'll show you how I created and deployed a React app—which I created using `create-react-app`—to GitHub Pages.
 
 You can visit the deployed app, at [https://gitname.github.io/linkedin-clone/](https://gitname.github.io/linkedin-clone/).
 
