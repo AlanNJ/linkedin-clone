@@ -1,4 +1,4 @@
-#**Creating and  Deploying a React App\* to GitHub Pages**
+# **Creating and  Deploying a React App\* to GitHub Pages**
 
 \* created using `create-react-app`
 
@@ -20,21 +20,21 @@ The remainder of this document contains a tutorial on creating a React app (usin
 
    ```sh
    $ node --version
-   v6.10.1
+   v16.13.0 LTS
    ```
 
 2. An adequate version of [`npm`](https://nodejs.org/) is installed. Here's the adequate version I use:
 
    ```sh
    $ npm --version
-   3.10.10
+   8.1.2
    ```
 
 3. An adequate version of [`create-react-app`](https://github.com/facebookincubator/create-react-app) is installed. Here's the adequate version I use:
 
    ```sh
    $ create-react-app --version
-   1.3.1
+   4.0.0
    ```
 
    In the case of `create-react-app`, you can either install it globally (i.e. `$ npm install -g create-react-app`) or install it locally (i.e. `$ npm install create-react-app`). If you choose the latter, you will have to specify its path whenever you invoke it (e.g. `path/to/node_modules/.bin/create-react-app`).
@@ -43,7 +43,7 @@ The remainder of this document contains a tutorial on creating a React app (usin
 
    ```sh
    $ sed --version
-   sed (GNU sed) 4.4
+   sed (GNU sed) 4.7
    ```
 
 5. A [GitHub](https://www.github.com) account. :octocat:
