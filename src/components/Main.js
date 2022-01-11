@@ -253,7 +253,7 @@ const Options = styled.div`
 		flex-wrap: wrap;
 	}
 	button {
-		padding: 20px 1px;
+		padding: 20px 2px;
 		max-height: 48px;
 		text-align: center;
 		align-items: center;
